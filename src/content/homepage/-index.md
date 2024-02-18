@@ -1,29 +1,29 @@
 ---
 # Banner
 banner:
-  title: "shinCode Webengineer"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "ちょびひげっている"
+  content: "ちょびひげっているひとりのちゅうねんおとこのかなしいぶろぐ"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "push"
+    label: "おせ"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's ちょびひげ"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "のうかのさんなんぼうや"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
+      - "10+ ちょびひげ pages"
+      - "95+ Google おによめ’ｓ Score"
+      - "Build "
+      - "Fully responsive "
+      - "SEO-optimized rankings"
       - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "ふりだしにもどる"
       link: "#"
 
   - title: "Discover the Key Features Of Astro"
